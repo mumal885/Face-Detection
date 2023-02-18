@@ -1,9 +1,9 @@
 
 
-![logo](https://github.com/mumal885/Face-Detection/blob/main/fc.jpg)
+![logo](https://github.com/mumal885/Face-Detection/blob/main/fc1.jpg)
 # Face-Detection
 This Face-Detection is coded in C++ and uses C++ file handling concepts.
-Shop Billing System is about 255 lines code and is a mini project.
+
 
 ## Getting Started
 
